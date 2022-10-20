@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 ---
 APP:
 
-rocket-5xmrwigq8-bkt-tonton.vercel.app
+https://rocket-pay-chi-one.vercel.app/
